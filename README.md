@@ -1,6 +1,5 @@
 # hello-world
 Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
-Mit "#" sind die Entdeckungen des Tages aufgelistet
 
 ## 13.04.2023
 
@@ -23,7 +22,13 @@ Mit "#" sind die Entdeckungen des Tages aufgelistet
   Hier habe ich die App SoloLearn entdeckt und habe damit begonnen den damit verbundenen Python-Kurs zu absolvieren.
   Der Kurs vermittelt die grundlegenden Konzepte von Python.
   
-# 5. Erste Projektidee
-  Hier habe ich überlegt, wie man Machine-Vision im Alltag nutzen könnte.
-  Ich kam zu der Idee mit einem Foto via Python Kleingeld zu zählen.
+## 14.04.2023
+
+# 1. Erste Projektidee
+  Um meine Website in Bewerbungsschreiben einfacher zugänglich zu machen, brauchte ich einen QR-Code.
+  Ich fragte mich also wie man mit Python einen QR-Code generieren könnte.
+   
+   Das Ergebnis:
+     
+     https://github.com/A-nders-Code/QR-Code-Generator
 
