@@ -11,8 +11,10 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
     Hier habe ich gelernt, wie ich mein Colab Notebook in einem GitHub Repository speichere.:
       -Google Colab erlaubt die Nutzung Browserbasierten Cloud-Computings
       -GitHub erlaubt es mit anderen kolaborativ via "Branches" zu arbeiten
-    Beispiel:
-      https://github.com/A-nders-Code/hello-world/blob/35b3233dc369818b5e227a157a4d6519913c8627/firstcolabscript.ipynb
+    
+      Beispiel:
+    
+        https://github.com/A-nders-Code/hello-world/blob/35b3233dc369818b5e227a157a4d6519913c8627/firstcolabscript.ipynb
 
 # 3. Dokumentation
   Hier habe ich eine Website mit Google Sites erstellt und diese mit meinem Domain verknüpft.
