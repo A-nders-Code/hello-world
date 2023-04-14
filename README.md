@@ -5,7 +5,7 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
 
   # 1. Eintrag
     Hier habe ich gelernt, was ein Branch ist und wie man ein GitHub Repository erstellt.
-      -Branches erlauben es an einem Code zu arbeiten
+      -Branches erlauben es gemeinsam und zeitgleich an einem Code zu arbeiten
   
   # 2. Google Colab Notebook auf GitHub
     Hier habe ich gelernt, wie ich mein Colab Notebook in einem GitHub Repository speichere.:
