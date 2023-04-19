@@ -16,21 +16,38 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
     
         https://github.com/A-nders-Code/hello-world/blob/35b3233dc369818b5e227a157a4d6519913c8627/firstcolabscript.ipynb
 
-## 3. Dokumentation
-  Hier habe ich eine Website mit Google Sites erstellt und diese mit meinem Domain verknüpft.
-  Sie soll den Fortschritt dokumentieren, den ich im Laufe der Zeit mache.
+	## 3. Dokumentation
+  		Hier habe ich eine Website mit Google Sites erstellt und diese mit meinem Domain verknüpft.
+  		Sie soll den Fortschritt dokumentieren, den ich im Laufe der Zeit mache.
   
-## 4. Erste Schritte Python zu erlernen
-  Hier habe ich die App SoloLearn entdeckt und habe damit begonnen den damit verbundenen Python-Kurs zu absolvieren.
-  Der Kurs vermittelt die grundlegenden Konzepte von Python.
+	## 4. Erste Schritte Python zu erlernen
+  		Hier habe ich die App SoloLearn entdeckt und habe damit begonnen den damit verbundenen Python-Kurs zu absolvieren.
+  		Der Kurs vermittelt die grundlegenden Konzepte von Python.
   
+
 # 14.04.2023
 
-## 1. Erste Projektidee
-  Um meine Website in Bewerbungsschreiben einfacher zugänglich zu machen, brauchte ich einen QR-Code.
-  Ich fragte mich also wie man mit Python einen QR-Code generieren könnte.
+	## 1. Erste Projektidee
+  		Um meine Website in Bewerbungsschreiben einfacher zugänglich zu machen, brauchte ich einen QR-Code.
+  		Ich fragte mich also wie man mit Python einen QR-Code generieren könnte.
    
-   Das Ergebnis:
+   		Das Ergebnis:
      
-     https://github.com/A-nders-Code/QR-Code-Generator
+     		https://github.com/A-nders-Code/QR-Code-Generator
+
+
+# 19.04.2023
+	## 1. move.py
+		Hier habe ich gelernt, wie man Dateien anhand ihres Dateityps bewegt.
+		Ich habe dabei auch gelernt, wie man das CWD (Current Working Directory) herausfindet und ändert.
+			
+			Das Ergebnis:
+				
+				https://github.com/A-nders-Code/move
+
+	## 2. Programme "verketten"
+		Hier habe ich herausgefunden, wie man mit dem subprocess-Modul, .py-Programme startet.
+
+	## 3. gspread
+		Hier habe ich das gspread-Modul kennengelernt. Es erlaubt Python, Daten in einem Google-Spreadsheet zu manipulieren.
 
