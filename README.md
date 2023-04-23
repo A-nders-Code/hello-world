@@ -56,7 +56,7 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
 	 	Hier habe ich gelernt, wie man zufällige Zahlen generieren kann.
 	 
 	 2. pptxst3
-		Hier habe ich gelernt, wie man seinem Python-Programm eine Stimme verleit. Ich habe dies genutzt um die magische Miesmuschel 
+		Hier habe ich gelernt, wie man seinem Python-Programm eine Stimme verleiht. Ich habe dies genutzt um die magische Miesmuschel 
 		in Python zu programmieren. Sie dient als Entscheidungshilfe.
 			
 			Das Ergebnis:
