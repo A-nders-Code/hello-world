@@ -50,4 +50,16 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
 
 	 3. gspread
 		Hier habe ich das gspread-Modul kennengelernt. Es erlaubt Python, Daten in einem Google-Spreadsheet zu manipulieren.
+		
+# 22.04.2023
+	 1. random
+	 	Hier habe ich gelernt, wie man zufällige Zahlen generieren kann.
+	 
+	 2. pptxst3
+		Hier habe ich gelernt, wie man seinem Python-Programm eine Stimme verleit. Ich habe dies genutzt um die magische Miesmuschel 
+		in Python zu programmieren. Sie dient als Entscheidungshilfe.
+			
+			Das Ergebnis:
+				
+				https://github.com/A-nders-Code/magische_miesmuschel
 
