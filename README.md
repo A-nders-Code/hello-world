@@ -33,7 +33,7 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
    
    		Das Ergebnis:
      
-     		https://github.com/A-nders-Code/QR-Code-Generator
+		https://github.com/A-nders-Code/QR-Code-Generator
 
 
 # 19.04.2023
