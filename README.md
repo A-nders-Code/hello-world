@@ -12,7 +12,7 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
       		Google Colab erlaubt die Nutzung browserbasierten Cloud-Computings.
       		GitHub erlaubt es mit anderen kollaborativ zu arbeiten. Es erleichtert bzw. ermöglicht Open-Source-Projekte. 
     
-      	Beispiel:
+      		Beispiel:
     
         	https://github.com/A-nders-Code/hello-world/blob/35b3233dc369818b5e227a157a4d6519913c8627/firstcolabscript.ipynb
 
@@ -41,9 +41,9 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
 		Hier habe ich gelernt, wie man Dateien anhand ihres Dateityps bewegt.
 		Ich habe dabei auch gelernt, wie man das CWD (Current Working Directory) herausfindet und ändert.
 			
-			Das Ergebnis:
+		Das Ergebnis:
 				
-				https://github.com/A-nders-Code/move
+		https://github.com/A-nders-Code/move
 
 	 2. Programme "verketten"
 		Hier habe ich herausgefunden, wie man mit dem subprocess-Modul, .py-Programme startet.
@@ -59,7 +59,7 @@ Dies ist die Dokumentation meiner Reise, das Programmieren zu erlernen.
 		Hier habe ich gelernt, wie man seinem Python-Programm eine Stimme verleiht. Ich habe dies genutzt um die magische Miesmuschel 
 		in Python zu programmieren. Sie dient als Entscheidungshilfe.
 			
-			Das Ergebnis:
+		Das Ergebnis:
 				
-				https://github.com/A-nders-Code/magische_miesmuschel
+		https://github.com/A-nders-Code/magische_miesmuschel
 
